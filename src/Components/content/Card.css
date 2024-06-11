@@ -1,0 +1,56 @@
+.bg {
+
+
+    width: 315px;
+    height: 150px;
+    
+    background-color: black;
+    
+
+}
+
+#img {
+
+    width: 315px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+.card {
+
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #7c7c8a;
+    
+
+}
+
+
+#title{
+
+    font-size: 13pt;
+     width: 280px;
+    cursor: pointer;
+
+}
+
+#disc {
+
+
+    width: 280px;
+}
+
+.texts {
+    margin-top: 0.6em;
+    display: flex;
+    flex-direction: column;
+    padding: 1em 0em;
+    padding-left: 1em;
+    gap: 1em;
+
+
+}
+
+

@@ -1,0 +1,92 @@
+.contact {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 0em;
+   
+   
+    background-color: #EEEEFF;
+
+
+
+}
+
+
+.contactlayout {
+
+    max-width: 80%;
+    background-color: #EEEEFF;
+    display: flex;
+    flex-direction: column;
+    gap:2em;
+    text-align: center;
+
+
+
+}
+
+
+.contactlayout #input1 {
+
+
+
+    height: 100px;
+    text-align: start;
+    justify-content: start;
+    padding-bottom: 5.5em;
+    
+
+}
+
+
+.contactlayout p {
+
+
+
+    font-size: 20pt;
+    font-weight: 500;
+
+
+
+}
+
+
+.contactlayout button {
+
+
+    height: 40px;
+    border: none;
+    background-color: #846AFF;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+
+
+
+}
+
+
+@media (max-width: 768px) {
+
+
+    .contactlayout {
+
+        max-width: 90%;
+        background-color: #EEEEFF;
+        display: flex;
+        flex-direction: column;
+        gap:2em;
+        text-align: center;
+    
+    
+    
+    }
+    
+
+
+
+}
+
+
+

@@ -1,0 +1,27 @@
+input {
+
+    height: 40px;
+    width: 500px;
+    border: none;
+    padding: 1em;
+
+
+
+}
+
+@media (max-width: 768px) {
+
+
+    input {
+
+        height: 40px;
+        width: 90vw;
+        border: none;
+        padding: 1em;
+    
+    
+    
+    }
+    
+    
+}
