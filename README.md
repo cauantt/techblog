@@ -1,4 +1,4 @@
-Techblog is a responsive website about technology news.
+#Techblog is a responsive website about technology news.
 
 
 ![image](https://github.com/cauantt/techblog/assets/131816676/96105d6b-3c0e-44dd-b682-5241c47b5fe1)
